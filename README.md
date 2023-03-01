@@ -3,7 +3,7 @@
 
 ## Introduction
 NDA SecureChain is a blockchain-based solution for enhancing supply chain transparency and preventing counterfeit drugs from entering the market.
-
+---
 ## Features
 * Tamper-proof record of transactions: The blockchain provides a secure and immutable record of all transactions, ensuring that the supply chain is transparent and trustworthy.
 
